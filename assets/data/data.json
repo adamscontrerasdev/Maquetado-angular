@@ -1,0 +1,56 @@
+{
+    "banner":   [
+        {"nombre":"Adams Contreras",
+        "fotoPerfil":"https://scontent.faep28-2.fna.fbcdn.net/v/t39.30808-6/271759848_5189515984415369_7949443995490206289_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=nHik279j0TEAX_6NpCj&_nc_ht=scontent.faep28-2.fna&oh=00_AfBXVwLZPETEGlQjlPUepfMMy1en3ciKTwb3fk1kdz_zfA&oe=6366CFD1"
+        }
+                ],
+    "acercaDe": [
+        {"soy":"Desarrollador web full-stack Jr",
+        "masDeMi":"Tengo 2 años de experiencia en el desarrollo Web y actualmente estoy en camino a convertirme en Full-Stack certificado"}
+                ],
+    "experiencia":  [
+
+        {   "imagen":"https://adnews.com.br/wp-content/uploads/2021/03/Rappi.png",
+            "trabajo":"Rappi",
+        "contenido":"Tuve una epoca en la que mi principal fuente de ingresos era trabajar haciendo envios con la plataforma destinada para dicho proposito Rappi"
+        },
+        {   "imagen":"https://tecnologicodelaudio.milaulas.com/pluginfile.php/298/course/summary/PM.jpg",
+            "trabajo":"Productor musical",
+        "contenido":"La produccion de musica ha sido desde el 2012 mi pasion y fue mi trabajo principal de 2018 a 2019 actualmente hago pequeñas producciones particulares a clientes que me quedaron de esos momentos"
+        },
+        {   "imagen":"https://images5.alphacoders.com/108/1083453.jpg",
+            "trabajo":"Encargado de pizzeria",
+        "contenido":"Fui cocinero encargador de una pizzaria en la localidad de belgrano aprendi muchas cosas acerca de cocina y de como administrar un local ya que este mismo era propidad de quienes eran mis empleadores directos"
+        }
+                    ],
+    "educacion":[
+        {
+            "imagen":"https://yt3.ggpht.com/ytc/AMLnZu-601d1TRa-DAap-PfCPP7R7LbjZPzPYjEJ-8dZ=s900-c-k-c0x00ffffff-no-rj",
+            "instituto":"Colegio los corales CLC (Venezuela)",
+            "contenido":"En este colegio culmine mi etapa de educacion primaria"
+        },
+        {
+            "imagen":"http://1.bp.blogspot.com/_kt93hmR1YHY/TB0NtGBVoXI/AAAAAAAAABM/PLL261Z40AI/S1600-R/logo.png",
+            "instituto":"Liceo Jose Maria España (Venezuela)",
+            "contenido":"En este colegio curse hasta 3er año de secundaria"
+        },
+        {
+            "imagen":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjwU86ceze8H_4ULpEaTCXXxJCHtKKlJ69mfm60Lh2d6CzmD3Na8jJhxD3aOMUh9iLomg&usqp=CAU",
+            "instituto":"Colegio Simon Bolivar (Venezuela)",
+            "contenido":"En este colegio curse el 4to año de secundaria"
+        },
+        {
+            "imagen":"https://colegio6manuelbelgrano.org/wp-content/uploads/2017/02/logodelC6DE2.png",
+            "instituto":"Colegio Manuel Belgrano (Argentina)",
+            "contenido":"En este colegio culmine la secundaria"
+        }
+    ],
+    "hardSkills":{
+        "html":"90",
+        "css":"60",
+        "javascript":"40",
+        "boo":"40",
+        "json":"60",
+        "angular":"20"
+    }
+}

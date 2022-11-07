@@ -1,0 +1,27 @@
+.acerca-de{
+    position: relative;
+    display: flex;
+    padding-top:50px;
+    gap: 6em;
+    height: auto;
+}
+
+.contenido-acerca{
+    margin: 0 20% 0 50%;
+    padding: 10px;
+    width: 50vw;
+    height: auto;
+}
+
+.titulo{
+    font-weight: 500;
+    font-size: 1.5em;
+    height: auto;
+    width: 130%;
+}
+
+.text_info{
+    font-size: 1em;
+    height: auto;
+    width: 100%;
+}
